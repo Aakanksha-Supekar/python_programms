@@ -1,2 +1,2 @@
-# python_programms
-python programs to learn
+# python_essentials
+Interested in python
